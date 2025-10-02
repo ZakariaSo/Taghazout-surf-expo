@@ -83,11 +83,11 @@ body, h1, h2, p, ul, li {
   }
   
   section img {
+    margin: 20px auto;   
     margin-top: 15px;
     display: block;            
     max-width: 80%;             
-    height: auto;               
-    margin: 20px auto;          
+    height: auto;                      
     border-radius: 10px;        
     box-shadow: 0 3px 8px rgba(0,0,0,0.15); 
     transition: transform 0.3s; 
