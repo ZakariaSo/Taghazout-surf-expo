@@ -17,7 +17,6 @@ body, h1, h2, p, ul, li {
   }
   
   body {
-    /* font-family: 'poppins-bold', sans-serif; */
     line-height: 1.6;
     color: #333;
     background: linear-gradient(to bottom, #fdfbfb, #ebedee);
